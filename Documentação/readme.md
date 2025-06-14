@@ -11,3 +11,11 @@ O padrão a ser utilizado será as estórias de usuário. Segue o exemplo [clica
 - Artefatos de requisitos ficam em [/Requisitos]();
 - Artefatos de diagramas ficam em [/Diagramas]();
 - Artefatos de código ficam em [../Sistema]();
+
+## Pontos do processo
+[Clique_aqui]() para ver o processo que estamos utilizando.
+
+os pontos são:
+- Na fase de concepção, quando o envolvido **Analisa** e **Especifica**;
+- Na fase de desenvolvimento, se necessário, quando o envolvido **Codifica** e **Revisa**;
+  
