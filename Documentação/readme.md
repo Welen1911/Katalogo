@@ -13,7 +13,7 @@ O padrão a ser utilizado será as estórias de usuário. Segue o exemplo [clica
 - Artefatos de código ficam em [../Sistema]();
 
 ## Pontos do processo
-[Clique_aqui]() para ver o processo que estamos utilizando.
+[Clique_aqui](https://github.com/Welen1911/Katalogo/blob/main/Documenta%C3%A7%C3%A3o/Processo.md) para ver o processo que estamos utilizando.
 
 os pontos são:
 - Na fase de concepção, quando o envolvido **Analisa** e **Especifica**;
