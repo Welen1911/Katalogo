@@ -4,7 +4,7 @@
 O padrão a ser utilizado será as estórias de usuário. Segue o exemplo [clicando_aqui]().
 
 ## Padrão de nomeclatura dos artefatos
-- Artefatos de requisitos: Em maiusculo, contendo as siglas de Requisito Funcional ou Requisito Não Funcional, contendo traço, enumerado em ordem sequencial, no formato .md. Exemplo: [RF-1](/Requisitos/Funcionais/RF-Exemplo.md), [RNF-1](/Requisitos/NFuncionais/RNF-Exemplo.md);
+- Artefatos de requisitos: Em maiusculo, contendo as siglas de Requisito Funcional ou Requisito Não Funcional, contendo traço, enumerado em ordem sequencial, no formato .md. Exemplo: [RF-1](https://github.com/Welen1911/Katalogo/blob/main/Documenta%C3%A7%C3%A3o/Requisitos/Funcionais/RF-Exemplo.md), [RNF-1](https://github.com/Welen1911/Katalogo/blob/main/Documenta%C3%A7%C3%A3o/Requisitos/NFuncionais/RNF-Exemplo.md);
 - Outros artefatos: Em maiusculo, contendo um titulo descritivo, contendo '_' no lugar de espaços, preferêncialmente em formato .md;
 
 ## Padrão de diretórios dos artefatos
