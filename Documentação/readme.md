@@ -1,7 +1,7 @@
 # Como vai funcionar ?
 
 ## Padrão dos artefatos de requisitos
-O padrão a ser utilizado será as estórias de usuário. Segue o exemplo [clicando_aqui]().
+O padrão a ser utilizado será as estórias de usuário. Segue o exemplo [clicando_aqui](https://github.com/Welen1911/Katalogo/blob/main/Documenta%C3%A7%C3%A3o/Requisitos/Funcionais/RF-Exemplo.md).
 
 ## Padrão de nomeclatura dos artefatos
 - Artefatos de requisitos: Em maiusculo, contendo as siglas de Requisito Funcional ou Requisito Não Funcional, contendo traço, enumerado em ordem sequencial, no formato .md. Exemplo: [RF-1](https://github.com/Welen1911/Katalogo/blob/main/Documenta%C3%A7%C3%A3o/Requisitos/Funcionais/RF-Exemplo.md), [RNF-1](https://github.com/Welen1911/Katalogo/blob/main/Documenta%C3%A7%C3%A3o/Requisitos/NFuncionais/RNF-Exemplo.md);
