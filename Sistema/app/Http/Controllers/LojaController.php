@@ -60,7 +60,9 @@ class LojaController extends Controller
      */
     public function show(Loja $loja): Response
     {
-        dd($loja);
+        return Inertia::render('lojas/Show', [
+            'loja' => $loja,
+        ]);
     }
 
     /**
