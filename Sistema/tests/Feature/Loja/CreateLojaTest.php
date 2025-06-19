@@ -33,7 +33,7 @@ class CreateLojaTest extends TestCase
             'nome' => 'Loja Teste',
             'contato' => '123456789',
             'logo' => null,
-        ])->assertRedirect(route('lojas.show', 1));
+        ])->assertRedirect(route('lojas.show', 'loja-teste'));
 
         $this->assertDatabaseHas('lojas', [
             'nome' => 'Loja Teste',
@@ -51,7 +51,7 @@ class CreateLojaTest extends TestCase
             'nome' => 'Loja Teste',
             'contato' => '123456789',
             'logo' => \Illuminate\Http\UploadedFile::fake()->image('logo.jpg'),
-        ])->assertRedirect(route('lojas.show', 1));
+        ])->assertRedirect(route('lojas.show', 'loja-teste'));
 
         $this->assertDatabaseHas('lojas', [
             'nome' => 'Loja Teste',

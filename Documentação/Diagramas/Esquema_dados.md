@@ -9,6 +9,7 @@ Padrão do projeto Laravel;
 |-----------|-------|---------------|
 | user_id      | foreignId - required   | tabela: users; 1 - 1     |
 | nome      | string - required   |      |
+| slug      | string - required   |      |
 | logo     | string - nullable    | |
 | contato    | string - required    | |
 
@@ -18,6 +19,7 @@ Padrão do projeto Laravel;
 |-----------|-------|---------------|
 | loja_id      | foreignId - required   | tabela: lojas; 1: loja - n: produtos     |
 | nome      | string - required   |      |
+| slug      | string - required   |      |
 | imagem     | string - nullable    | |
 | descricao    | text - nullable    | |
 | preco    | decimal - required    | |
