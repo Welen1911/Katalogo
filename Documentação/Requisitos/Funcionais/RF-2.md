@@ -6,5 +6,5 @@
 
 **Critérios de Aceitação:**
 
-- Siga o esquema de dados da tabela 'lojas' em [../../Diagramas/EsquemaDados.md]();
+- Siga o esquema de dados da tabela 'lojas' em [../../Diagramas/Esquema_dados.md](https://github.com/Welen1911/Katalogo/blob/main/Documenta%C3%A7%C3%A3o/Diagramas/Esquema_dados.md);
 - Um usuário não pode cadastrar mais de uma loja;
