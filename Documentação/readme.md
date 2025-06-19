@@ -18,4 +18,16 @@ O padrão a ser utilizado será as estórias de usuário. Segue o exemplo [clica
 os pontos são:
 - Na fase de concepção, quando o envolvido **Analisa** e **Especifica**;
 - Na fase de desenvolvimento, se necessário, quando o envolvido **Codifica** e **Revisa**;
+
+## Atividades
+
+- É gerado uma demanda que referência o artefato de requisito, o desenvolvedor que recebeu aquela demanda implementará aquilo;
+- Após, será enviado para o repositório o artefato de código implementado ou alterado com uma mensagem referenciando a tal demanda;
+
+## Mecanismos
+
+- Demanda: Issue do repositório;
+- Artefato de requisito: Documento .md contendo a Estória de Usuário e os critérios de aceite;
+- O Desenvolvedor recebe essa demanda atráves do quadro Kanban que está no projeto do repositório;
+- Código sendo enviado: Commit com mensagem contendo '#numero_da_issue' para referência aquele versionamento ao que foi soliticado;
   
