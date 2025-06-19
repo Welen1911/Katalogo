@@ -26,6 +26,8 @@ os pontos são:
 
 ## Mecanismos
 
+[Link do projeto](https://github.com/Welen1911/Katalogo/blob/main/Documenta%C3%A7%C3%A3o/readme.md)
+
 - Demanda: Issue do repositório;
 - Artefato de requisito: Documento .md contendo a Estória de Usuário e os critérios de aceite;
 - O Desenvolvedor recebe essa demanda atráves do quadro Kanban que está no projeto do repositório;
