@@ -7,5 +7,5 @@
 **Critérios de Aceitação:**
 
 - Crie um arquivo na pasta [../../Diagramas]() em .md;
-- O arquivo deve ter o seguinte nome: EsquemaDados.md;
+- O arquivo deve ter o seguinte nome: Esquema_dados.md;
 - Deve conter tabelas das entidades com relacionamento;
