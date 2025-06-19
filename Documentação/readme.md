@@ -26,7 +26,7 @@ os pontos são:
 
 ## Mecanismos
 
-[Link do projeto](https://github.com/Welen1911/Katalogo/blob/main/Documenta%C3%A7%C3%A3o/readme.md)
+[Link do projeto](https://github.com/users/Welen1911/projects/10/views/1)
 
 - Demanda: Issue do repositório;
 - Artefato de requisito: Documento .md contendo a Estória de Usuário e os critérios de aceite;
